@@ -1,4 +1,10 @@
 hello-world
-===========
+=========== 
 
-Just a test repository
+Hi humans,
+
+Jerikc Here! I start to use the github and open my releated source code.
+
+Thanks.
+
+
